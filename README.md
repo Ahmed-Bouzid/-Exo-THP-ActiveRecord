@@ -1,6 +1,6 @@
 # ActiveRecordMarseille
 
-Travail réalisé par Ahmed Bouzid, Thomas Iatrou, Romain Cestari
+Travail réalisé par l'équipe THP de Marseille : Ahmed Bouzid, Thomas Iatrou, Romain Cestari
 
 Vous trouverez : 
 Un dossier pour l'app rails du blog, avec les models, les relations
